@@ -26,7 +26,7 @@ async def on_issue_opened(
 
 if __name__ == "__main__":
     run_app(
-        name='PyCon-Bot-by-wiLLIAM',
+        name='PyCon-Bot-by-William',
         version='1.0.0',
-        url='https://githubbotpycon.herokuapp.com/',
+        url='https://github.com/apps/botpycon/',
     )
